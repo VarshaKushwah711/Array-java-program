@@ -1,7 +1,9 @@
 //8. Add an element to the beginning of the array [8, 9, 10].
 
-public class Array30 {
-    public static void main(String[] args) {
+public class Array30 
+{
+    public static void main(String[] args) 
+    {
         
         int arr[] = {55, 66, 77, 88};
         System.out.print("Old array: ");

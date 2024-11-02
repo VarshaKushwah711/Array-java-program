@@ -1,4 +1,5 @@
 //to find maximum and minimum value in array
+
 public class Array5_MaxAndMin 
 {
     static void max_and_min(int arr[])

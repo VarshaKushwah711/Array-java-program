@@ -20,6 +20,8 @@ public class Array5_MaxAndMin
         System.out.println("maximum value in array -- " + max);
         System.out.println("minimum value in array -- " + min);
     }
+
+    
     public static void main(String[] args) 
     {
         int arr[] = {15,14,3,12,15};

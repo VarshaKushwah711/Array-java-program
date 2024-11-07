@@ -14,4 +14,5 @@ public class Array12_GetRandomValue
         Array12_GetRandomValue obj = new Array12_GetRandomValue();
         System.out.println(obj.random_array());
     }
+    
 }

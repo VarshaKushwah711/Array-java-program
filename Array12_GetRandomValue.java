@@ -3,7 +3,7 @@ import java.util.Random;
 public class Array12_GetRandomValue 
 {
     
-    
+
     public String  random_array()
     {
         String arr[] = {"apple","mango","banana","grapes","orange","papaya"};

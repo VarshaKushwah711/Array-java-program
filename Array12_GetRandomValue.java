@@ -1,4 +1,5 @@
 import java.util.Random;
+
 //To get random value in array
 public class Array12_GetRandomValue 
 {
